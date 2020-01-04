@@ -7,3 +7,8 @@ The most current driver of the HP Universal Scan Driver for MacOS for Samsung pr
 This repository _fixes those bug_, so you can (finally!) return to scan with your 64 bit MacOS.
 
 *Please spread the word!*
+
+## How to
+
+- launch `ICDM.pkg`
+- enjoy :)

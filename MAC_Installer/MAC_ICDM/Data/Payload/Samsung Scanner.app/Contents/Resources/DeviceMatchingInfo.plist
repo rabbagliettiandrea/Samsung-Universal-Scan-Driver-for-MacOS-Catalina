@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BonjourNetwork</key>
+	<dict>
+		<key>_scanner._tcp.</key>
+		<array>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-3170 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-6200 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-6240 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-8380 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-4500W Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-4x24 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-4x25 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-4x28 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-5635 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-5835_5935 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-5835_5935X Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-6545 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-6545X Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-4650 4x21S Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-4623 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-4623FW Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-9250 9350 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-8030 8040 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-8385 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-8385X Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-6250 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-6220 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-3180 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-8540 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-8540X Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-3200 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-3300 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SL-X4300 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-483x 5x3x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-4x26 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-472x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-3400 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-92x1 93x1 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-8123 8128 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-3300 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-6260 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-470x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-4190 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-8640 8650 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-9252 9352 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-8230 8240 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M267x 287x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M337x 387x 407x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-981x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-881x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>CLX-982x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>SCX-882x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C460 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M2070 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M2060 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M4370 5370 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M536x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>K2200 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>K4350 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M4580 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>X4300 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C1860 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M288x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M306x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M458x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>K7600 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>X7600 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C2670 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C3060 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C356x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C406x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M456x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C145x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C470 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>X401 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>K401 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M5270 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C268x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>M408x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>C48x Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>K703 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>X703 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>K3250 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>K302 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+			<dict>
+				<key>ICABonjourTXTRecordKey</key>
+				<dict>
+					<key>MDL</key>
+					<string>X3220 Series</string>
+					<key>MFG</key>
+					<string>Samsung</string>
+				</dict>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>usb</key>
+	<dict>
+		<key>IOUSBDevice</key>
+		<array>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-3170 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x342A</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-6200 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3427</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-6240 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3428</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-8380 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3421</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-5x30 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x341A</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4300 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x342E</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4500 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3426</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4500W Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x342B</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4x24 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x342C</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4x25 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x343C</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4x28 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x342D</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-5635 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3430</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-5835_5935 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x342F</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-5835_5935X Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3446</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-6545 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3437</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-6545X Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3442</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4600 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3433</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4650 4x21S Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x345B</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4623 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3434</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4623FW Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3440</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-8385 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3439</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-8385X Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3444</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-6250 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x343B</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-6220 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x343A</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-3180 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x343D</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-8540 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x343F</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-8540X Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3445</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-3200 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3441</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-3300 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3449</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SL-X4300 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3324</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung K7600 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3327</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung X7600 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3326</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung K4350 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3325</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung M4580 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x346F</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung M4370 5370 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3471</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-483x 5x3x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x344B</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4x26 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3432</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-472x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3453</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-3400 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x344F</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SF-760 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3450</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-3300 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3456</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-6260 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3455</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-470x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3457</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-4190 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x345A</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung M267x 287x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3461</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung M337x 387x 407x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3460</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C460 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3468</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung M2070 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3469</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung M2060 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3488</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung K2200 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3467</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4200 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x341B</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C1860 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x346B</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung MFP 65x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3435</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-6x55 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3429</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-2160 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3425</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-4x21 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3419</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-6x45 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3420</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung SCX-6x22 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x341D</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung CLX-3160 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x341C</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung M288x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x346A</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung M306x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3484</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C2670 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x346E</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C3060 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3483</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C356x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3485</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C406x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3489</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung M456x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3490</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C145x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3471</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C470 Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x3472</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C268x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x347D</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+			<dict>
+				<key>Product Identification</key>
+				<string>Samsung C48x Series</string>
+				<key>device events</key>
+				<array>
+					<string>scan</string>
+				</array>
+				<key>device type</key>
+				<string>scanner</string>
+				<key>idProduct</key>
+				<string>0x347E</string>
+				<key>idVendor</key>
+				<string>0x04E8</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
